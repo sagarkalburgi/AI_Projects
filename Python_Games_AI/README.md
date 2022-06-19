@@ -19,3 +19,11 @@ Link : https://github.com/python-engineer/snake-ai-pytorch
 ### Wall Passing, States Separated and Obstacle Added
 ![Wall Passing, Obstacle and states Separated](Snake_Game/wall_passing_new_block_and_more_states_separated/game.JPG)
 ![Wall Passing, Obstacle and states Separated](Snake_Game/wall_passing_new_block_and_more_states_separated/Wall_passing_obstacle_and_more_states_separated.png)
+
+
+## Car Game AI
+
+AI learns to avoid incoming cars using reinforcement learning. Max score was set to 500 and once it reaches 500 new games starts.
+
+![car_game](Car_Game_AI/car_game.JPG)
+![car_game_AI](Car_Game_AI/Car_Game_AI.png)
