@@ -21,7 +21,7 @@
 ![Dataset](RGB_dataset_salt_and_pepper_nosie/dataset.png)
 
 ### Autoencoder Model
-![Model](RGB_dataset_salt_and_pepper_nosie/model.png)
+![Model](RGB_dataset_salt_and_pepper_nosie/AE_model.png)
 
 ### AE Loss Graph
 ![AELoss Graph](RGB_dataset_salt_and_pepper_nosie/aeloss.png)
