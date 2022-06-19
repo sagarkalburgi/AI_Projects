@@ -31,4 +31,4 @@ Use early stopping to avoid validation loss from increasing. In this model I did
 ## 500 Epochs
 ### Accuracy and Loss Graph
 Use early stopping to avoid validation loss from increasing. In this model I didn't use early stopping. (The model is overfitted)
-![Accuracy and Loss Graph](/500_epochs/Accuracy_and_loss_500_epochs.png)
+![Accuracy and Loss Graph](500_epochs/Accuracy_and_loss_500_epochs.png)
