@@ -2,19 +2,19 @@
  
 ## LFW Dataset
 ### Original Dataset
-![Dataset](dataset.png)
+![Dataset](/dataset.png)
 
 ### Model
-![Model](model.png)
+![Model](/model.png)
 
 ### Loss Graph
-![Loss Graph](loss.png)
+![Loss Graph](/loss.png)
 
 ### Accuracy Graph
-![Loss Graph](acc.png)
+![Loss Graph](/acc.png)
 
 ### Learning Rate Graph
-![Loss Graph](lr.png)
+![Loss Graph](/lr.png)
 
 ### Model Predictions
-![ISR](predictions.png)
+![ISR](/predictions.png)
