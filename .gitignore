@@ -66,3 +66,9 @@
 /Deepfaking-Numbers-using-Keras/Version_1/Number_7/generator_7.json
 /Deepfaking-Numbers-using-Keras/Version_1/Number_8/generator_8.json
 /Deepfaking-Numbers-using-Keras/Version_1/Number_9/generator_9.json
+
+## Facial Expression Recognition
+/Facial-Expression-Recognition/model_weights.h5
+/Facial-Expression-Recognition/model.json
+/Facial-Expression-Recognition/500_epochs/model_weights.h5
+/Facial-Expression-Recognition/500_epochs/model.json
