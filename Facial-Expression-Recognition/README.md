@@ -1,25 +1,12 @@
 # Facial Expression Recognition
 
-### Angry
-![angry](angry.JPG)
+|Angry |Disgust|Fear|Happy|
+| ------------- | ------------- |------------- |------------- |       
+|![angry](angry.JPG)|![disgust](disgust.JPG)|![fear](fear.JPG)|![happy](happy.JPG)|
 
-### Disgust
-![disgust](disgust.JPG)
-
-### Fear
-![fear](fear.JPG)
-
-### Happy
-![happy](happy.JPG)
-
-### Netural
-![netural](netural.JPG)
-
-### Sad
-![sad](sad.JPG)
-
-### Surprise
-![surprise](surprise.JPG)
+|Netural |Sad|Surprise|
+| ------------- | ------------- |------------- |
+|![netural](netural.JPG)|![sad](sad.JPG)|![surprise](surprise.JPG)|
 
 ### Model
 ![model](model.png)
@@ -30,5 +17,5 @@ Use early stopping to avoid validation loss from increasing. In this model I did
 
 ## 500 Epochs
 ### Accuracy and Loss Graph
-Use early stopping to avoid validation loss from increasing. In this model I didn't use early stopping. (The model is overfitted)
+Use early stopping to avoid validation loss from increasing. In this model early stopping was not used. (The model is overfitted)
 ![Accuracy and Loss Graph](500_epochs/Accuracy_and_loss_500_epochs.png)
