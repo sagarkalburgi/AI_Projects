@@ -3,23 +3,11 @@
 ### Dataset
 ![images](images.png)
 
-### AutoEncoder Model
-![AE](AE_model.png)
-
-### Loss for AE
-![lossAE](lossae.png)
-
-### Learning rate for AE
-![lrae](lrae.png)
-
-### CNN Model
-![CNN](CNN_model.png)
-
-### Loss for CNN
-![lossCNN](losscnn.png)
-
-### Learning rate for CNN
-![lrcnn](lrcnn.png)
+|AutoEncoder Model|CNN Model|
+|-------------|------------|
+|![AE](AE_model.png)|![CNN](CNN_model.png)|
+|![lossAE](lossae.png)|![lossCNN](losscnn.png)|
+|![lrae](lrae.png)|![lrcnn](lrcnn.png)|
 
 ### Predictions
 ![Predictions](predictions.png)
