@@ -7,14 +7,9 @@
 ### Model
 ![Model](model.png)
 
-### Loss Graph
-![Loss Graph](loss.png)
-
-### Accuracy Graph
-![Loss Graph](acc.png)
-
-### Learning Rate Graph
-![Loss Graph](lr.png)
+|Loss Graph|Accuracy Graph|Learning Rate Graph|
+|---------|---------|----------|
+|![Loss Graph](loss.png)|![Loss Graph](acc.png)|![Loss Graph](lr.png)|
 
 ### Model Predictions
 ![ISR](predictions.png)
