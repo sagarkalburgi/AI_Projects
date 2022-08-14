@@ -67,6 +67,28 @@
 /Deepfaking-Numbers-using-Keras/Version_1/Number_8/generator_8.json
 /Deepfaking-Numbers-using-Keras/Version_1/Number_9/generator_9.json
 
+## Deepfaking Numbers Version 2
+/Deepfaking-Numbers-using-Keras/Version_2/5000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/7500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/10000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/12500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/15000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/17500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/20000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/22500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/25000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/27500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/30000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/32500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/35000.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/37500.jpg
+/Deepfaking-Numbers-using-Keras/Version_2/Models/gan.h5
+/Deepfaking-Numbers-using-Keras/Version_2/Models/generator.h5
+/Deepfaking-Numbers-using-Keras/Version_2/Models/discriminator.h5
+/Deepfaking-Numbers-using-Keras/Version_2/Models/gan.json
+/Deepfaking-Numbers-using-Keras/Version_2/Models/generator.json
+/Deepfaking-Numbers-using-Keras/Version_2/Models/discriminator.json
+
 ## Facial Expression Recognition
 /Facial-Expression-Recognition/model_weights.h5
 /Facial-Expression-Recognition/model.json
