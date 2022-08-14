@@ -1,5 +1,21 @@
 # Deepfaking Numbers using Keras
- 
+
+## Version 2
+### Discriminator Model
+![Discriminator Model](Version_2/discriminator.png) 
+
+### Generator Model
+![Generator Model](Version_2/generator.png)
+
+|GAN Model|Accuracy and Loss|
+|----------|------------|
+|![GAN Model](Version_2/gan.png)|![Accuracy and Loss](Version_2/Accuracy_and_Loss.jpg)|
+
+|2500 Epoch|40000 Epoch|
+|-----------|------------|
+|![2500 Epoch](Version_2/2500.jpg)|![40000 Epoch](Version_2/40000.jpg)|
+
+## Version 1
  |Discriminator Model|Generator Model|GAN Model|
  | ------------- | ------------- |------------- |
 |![Discriminator Model](Version_1/discriminator.png) | ![Generator Model](Version_1/generator.png)|![GAN Model](Version_1/gan.png)|
